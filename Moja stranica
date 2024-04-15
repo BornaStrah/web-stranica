@@ -5,6 +5,6 @@
   <body>
     Ovo je moja prva stranica.
     <a herf="index.html">Početna</a>
-    <a herf="kontakt.html">Kontak</a>
+    <a herf="Kontakt.html">Kontak</a>
   </body>
 </html>
