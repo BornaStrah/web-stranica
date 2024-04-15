@@ -3,7 +3,7 @@
 <title>Kontakt</title>
   </head>
   <body>
-    <a herf="index.html">Početna</a>
-    <a herf="Moja stranica.html">O meni</a>
+    <a href="index.html">Početna</a><br>
+    <a href="Moja stranica.html">O meni</a>
   </body>
 </html>
