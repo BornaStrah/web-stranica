@@ -3,7 +3,7 @@
 <title>O meni</title>
   </head>
   <body>
-    <a herf="index.html">Početna</a>
-    <a herf="kontakt.html">Kontak</a>
+    <a href="index.html">Početna</a><br>
+    <a href="kontakt.html">Kontak</a>
   </body>
 </html>
