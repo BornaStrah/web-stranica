@@ -53,3 +53,7 @@ ul li a, ul li a:visited{
   padding: 2px 0px 2px 5px;
   width: 100px;
 }
+ul ul  li a: hover{
+  text-decoration: none;
+  border-left-color: #ccf;
+}
