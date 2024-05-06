@@ -46,7 +46,7 @@ h1
 
 }
 
-ul li a, ul li a:visited{
+ul ul li a, ul ul li a:visited{
   display: block;
   text-decoratio: none;
   margin: 1px;
